@@ -11,7 +11,7 @@ auth/currentUser
 
 ## Todo endpoints
 
-/todo/getAllTodo
+/todo/getAllTodo 
 /todo/getTodo
 /todo/updateTodo
 /todo/deleteTodo
