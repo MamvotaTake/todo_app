@@ -1,5 +1,5 @@
 # Todo App
-npm install @takesure/common - use for error handling
+npm install @takesure/common - used for error handling
 
 ### This app allows user to list all their todos, but before they start posting, view, updating and deleting, they should register first.
 
